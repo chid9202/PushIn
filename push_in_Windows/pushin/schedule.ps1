@@ -1,0 +1,1 @@
+schtasks /create /tn CAL-pushIn /tr C:\Users\admin\Desktop\pushin\dist\pushin.exe /sc onlogon

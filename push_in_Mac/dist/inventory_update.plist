@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+    <dict>
+        <key>Disabled</key>
+        <false/>
+        <key>Label</key>
+        <string>edu.csusb.update_inventory</string>
+        <key>RunAtLoad</key>
+        <true/>
+        <key>ProgramArguments</key>
+        <array>
+            <string>/usr/bin/open</string>
+            <string>-W</string>
+            <string>/Users/Shared/inventory_update.app</string>
+        </array>
+        
+    </dict>
+</plist>
